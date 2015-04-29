@@ -1,0 +1,21 @@
+h1 { text-align: center; text-shadow: 2px 2px red; height: 300%; border:2px solid black; border-radius:15px; background-color: black; color:white; }
+
+body { background-image: url(heat2.jpg); }
+
+p { background-color: black; text-shadow: 1px 1px 1px red;
+    width: 500px;
+    padding: 30px;
+    border: 25px ; color: white;
+    border-radius:10px; border-style:double; border-color: white ;}
+
+h4{ text-align: center; color: black; padding-left:10px; padding-right:10px; border-style:outset; width: 100px; background-color: white ; display: inline;}
+
+ul { color: white;}
+
+h5 { text-align: center; color: white;}
+
+h2 { text-align: center; color: white; text-shadow: 3px 3px 3px black;}
+
+div { color: white; }
+    
+audio{ float: center;}

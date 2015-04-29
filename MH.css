@@ -1,0 +1,11 @@
+span {display: none;}
+a:hover span { display: block; text-align: center;}
+
+body { background-image: url(heat2.jpg); }
+h1 { text-align: center ; text-shadow: 2px 2px red; height: 300%; border:2px solid black; border-radius:15px; background-color: black; color:white; }
+
+h3{ color: black ;text-shadow: 1px 1px black; padding-left:10px; padding-right:10px; border-style:dotted; width: 100px; background-color: white ;}
+
+p {text-align: center; color: black; padding-left:10px; padding-right:10px; border-style:outset; width: 100px; background-color: white; display: inline;}
+
+h5 { text-align: center; color: white;}
